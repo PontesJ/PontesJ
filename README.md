@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="200" src="https://gifdb.com/images/high/anime-banner-gif-file-258kb-34t6i28dfmg9ei5n.gif"  />
+<img align="right" height="180" src="https://gifdb.com/images/high/anime-banner-gif-file-258kb-34t6i28dfmg9ei5n.gif"  />
 
 ###
 

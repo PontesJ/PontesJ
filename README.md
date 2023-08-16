@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="120" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif"  />
+  <img height="120" src="./img/Digital_rain_banner.gif"  />
 </div>
 
 ###

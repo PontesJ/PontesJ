@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Tecnológias e Ferramentas:</p>
+<h3 align="left">Tecnológias e Ferramentas:</h3>
 
 ###
 
@@ -43,15 +43,21 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PontesJ/PontesJ/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Contatos:</h3>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pontes-33a746272" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ###
+
+<hr>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PontesJ&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>

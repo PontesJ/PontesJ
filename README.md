@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Tecnologias e Ferramentas:</p>
+<p align="left">Tecnológias e Ferramentas:</p>
 
 ###
 

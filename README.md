@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Tecnológias e Ferramentas:</h3>
+<h3 align="left">Tecnologias e Ferramentas:</h3>
 
 ###
 

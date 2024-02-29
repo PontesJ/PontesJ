@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="120" src="./img/Digital_rain_banner.gif"  />
+  <img height="120" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="left">No Cost Too Great</h1>
+<h3 align="left">João Pontes</h3>
 
 ###
 

@@ -62,6 +62,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pontes-33a746272" target="_blank">
+  <a href="https://www.linkedin.com/in/pontesj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
